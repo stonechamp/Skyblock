@@ -1,0 +1,10 @@
+name: Skyblock
+main: me.champ.skyblock.Skyblock
+author: Champ
+description: A custom skyblock plugin.
+version: 0.1
+depend: [WorldEdit]
+commands:
+  sb:
+    usage: /sb
+    description: Base command for Skyblock
